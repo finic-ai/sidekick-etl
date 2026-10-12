@@ -1,3 +1,5 @@
+> **This is a legacy project built by the team behind Finic in 2023, under the name Sidekick, and is no longer maintained. The hosted Sidekick service and dashboard are no longer available.** Finic now builds AI to stop fraud, abuse and financial crimes: [Finic Grayson](https://docs.finic.ai), a decision model API for real-time fraud and risk decisions, and agents for fraud investigations. See [finic.ai](https://finic.ai).
+
 <h2 align="center">
 <a href="https://www.getsidekick.ai/"> <img width="50%" src="https://user-images.githubusercontent.com/14931371/228092627-33481415-544b-4a76-9f32-d039704f1cc0.png" /></a>
 </h2>
